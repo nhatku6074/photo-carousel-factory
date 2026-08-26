@@ -1,0 +1,60 @@
+{
+  "name": "fictional-focus-bottle-demo",
+  "canvas": {"width": 1080, "height": 1920},
+  "safe_area": {"left": 60, "right": 60, "top": 150, "bottom": 240},
+  "font": null,
+  "requires_product_reveal": true,
+  "slides": [
+    {
+      "id": "01-hook",
+      "type": "hook",
+      "base": "01-hook-base.png",
+      "output": "01-hook.png",
+      "copy": "3 desk habits draining your focus",
+      "line_breaks": ["3 desk habits", "draining your focus"],
+      "text_center_y": 790,
+      "font_start": 108
+    },
+    {
+      "id": "02-clutter",
+      "type": "point",
+      "base": "02-clutter-base.png",
+      "output": "02-messy-space.png",
+      "copy": "1. Starting work in a messy space",
+      "line_breaks": ["1. Starting work", "in a messy space"],
+      "text_center_y": 660,
+      "font_start": 104
+    },
+    {
+      "id": "03-phone",
+      "type": "point",
+      "base": "03-phone-base.png",
+      "output": "03-phone-within-reach.png",
+      "copy": "2. Keeping your phone within reach",
+      "line_breaks": ["2. Keeping your phone", "within reach"],
+      "text_center_y": 660,
+      "font_start": 100
+    },
+    {
+      "id": "04-reset",
+      "type": "point",
+      "base": "04-reset-base.png",
+      "output": "04-no-reset.png",
+      "copy": "3. Forgetting to reset between tasks",
+      "line_breaks": ["3. Forgetting to reset", "between tasks"],
+      "text_center_y": 660,
+      "font_start": 98
+    },
+    {
+      "id": "05-product",
+      "type": "product-reveal",
+      "base": "05-product-base.png",
+      "output": "05-product-reveal.png",
+      "copy": "One simple reset. Keep it nearby :)",
+      "line_breaks": ["One simple reset.", "Keep it nearby :)"],
+      "text_center_y": 420,
+      "font_start": 104
+    }
+  ]
+}
+

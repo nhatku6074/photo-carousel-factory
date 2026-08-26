@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+credentials.json
+secrets.json
+*.key
+*.pem
+dist/*.zip
+examples/*/slides/
+examples/*/qa/
+

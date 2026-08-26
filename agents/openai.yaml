@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Carousel Factory"
+  short_description: "Create publish-ready product carousels"
+  default_prompt: "Use $photo-carousel-factory to turn my product references and content angle into a numbered social photo carousel with captions and QA."
