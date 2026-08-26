@@ -1,5 +1,7 @@
 # Photo Carousel Factory
 
+[![Downloads](https://img.shields.io/github/downloads/daisymyu-dev/photo-carousel-factory/total?style=for-the-badge&logo=github&label=Downloads&color=2ea44f)](https://github.com/daisymyu-dev/photo-carousel-factory/releases/latest)
+
 Turn product references and a content angle into a publish-ready social photo carousel—with model-agnostic image prompts, deterministic captions, contact sheets, and automated QA.
 
 [简体中文](README.zh-CN.md)
@@ -147,4 +149,3 @@ Useful contributions include portable font support, QA checks, copy frameworks, 
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
