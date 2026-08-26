@@ -1,5 +1,7 @@
 # Photo Carousel Factory
 
+[![Downloads](https://img.shields.io/github/downloads/daisymyu-dev/photo-carousel-factory/total?style=for-the-badge&logo=github&label=Downloads&color=2ea44f)](https://github.com/daisymyu-dev/photo-carousel-factory/releases/latest)
+
 把产品参考图和一个内容角度，变成可直接发布的社交平台图文轮播：模型无关的生图提示词、确定性字幕、总预览和自动质量检查一次完成。
 
 [English](README.md)
@@ -89,4 +91,3 @@ python scripts/package_release.py . --version 1.0.0
 ## 许可证
 
 MIT，详见 [LICENSE](LICENSE)。
-
